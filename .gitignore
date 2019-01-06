@@ -22,7 +22,6 @@ app/storage/
 
 .env.*.php
 .env.php
-.env
 Homestead.yaml
 Homestead.json
 
