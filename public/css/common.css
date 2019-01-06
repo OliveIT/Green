@@ -1,0 +1,70 @@
+.custom-control {
+    padding-left: 2rem;
+}
+
+.custom-control-label::before {
+    width: 1.5rem;
+    height: 1.5rem;
+    left: -2rem;
+}
+.custom-control-label::after {
+    width: 1.5rem;
+    height: 1.5rem;
+    left: -2rem;
+}
+.custom-control-label {
+    padding-top: 0.3rem;
+}
+.header-background {
+    background-color: RGB(188, 224, 253) !important;
+}
+
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255, 255, 255, 0.5)")
+}
+.footer-background {
+    background-color: RGB(38, 153, 251) !important;
+    position: relative;
+    bottom: 0px;
+    height: 200px;
+}
+
+footer p a{
+    color: white;
+}
+
+a.bt-line {
+    border-top: 1px white solid;
+}
+
+.login-text {
+    color:  RGB(38, 153, 251) !important;
+}
+
+.login-input {
+    border: 1px solid RGB(188, 224, 253);
+    height: 60px;
+}
+.btn-primary {
+    background-color: RGB(38, 153, 251);
+}
+
+li.rightborder {
+    border-right:solid 2px RGB(38, 153, 251);
+}
+
+.card-pricing {
+    z-index: 1;
+    border: 3px solid #007bff;
+}
+
+.sidebar {
+    margin-top: 70px !important;
+}
+
+.nav i {
+    font-size: 20px;
+}
+.big-social {
+    font-size: 42px;
+}
